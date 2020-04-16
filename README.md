@@ -2,6 +2,7 @@
 
 https://crontab.guru
 
+File location `/etc/crontab`
 ```
 # ┌───────────── minute (0 - 59)
 # │ ┌───────────── hour (0 - 23)
