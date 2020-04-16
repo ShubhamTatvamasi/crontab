@@ -1,6 +1,6 @@
 # crontab
 
-[https://crontab.guru](https://crontab.guru)
+https://crontab.guru
 
 ```
 # ┌───────────── minute (0 - 59)
