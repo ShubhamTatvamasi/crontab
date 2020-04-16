@@ -13,7 +13,8 @@
 # │ │ │ │ │
 # * * * * *  command_to_execute
 
-
+My Birthday
+0 0 17 10 *
 
 ###### Sample crontab ######
 
