@@ -1,6 +1,7 @@
 # crontab
 
-https://crontab.guru
+https://crontab.guru \
+https://devhints.io/cron
 
 list crontab jobs:
 ```bash
