@@ -2,6 +2,12 @@
 
 https://crontab.guru
 
+list crontab jobs:
+```bash
+crontab -l
+```
+
+
 File location `/etc/crontab`
 ```
 # ┌───────────── minute (0 - 59)
