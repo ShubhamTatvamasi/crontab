@@ -13,6 +13,11 @@ edit root user cron jobs:
 sudo crontab -e
 ```
 
+run command every minute:
+```bash
+echo '* * * * * date >> /tmp/date.txt' | crontab -
+```
+
 
 File location `/etc/crontab`
 ```
