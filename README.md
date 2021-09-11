@@ -7,6 +7,11 @@ list crontab jobs:
 crontab -l
 ```
 
+edit root user cron jobs:
+```bash
+sudo crontab -e
+```
+
 
 File location `/etc/crontab`
 ```
